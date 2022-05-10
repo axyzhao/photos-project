@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <h2> A university in lockdown </h2>
       <h3> Photographs of Tsinghua in May </h3>
-      <p className="caption"> Alex Zhao // May 9, 2022 </p>
+      <p className="caption"> <a href="https://alzhao.com">Alex Zhao</a> // May 9, 2022 </p>
       <p>
         On May 7, two of my classmates in Schwarzman, Lujain and Lucia, organized a photograph activity where we split into groups and took pictures around Tsinghua University's campus.
       The campus is locked down, so we were limited to our area of Tsinghua. We were each given eight prompts and two hours to take pictures. At the end, we shared our photos with all.
@@ -94,6 +94,7 @@ function App() {
           "In China, cameras perch on artificial saplings on street corners and by buildings. Guards are omnipresent in public places. For the May 1 Holiday, students gathered outside - as did the guards. We titled this photograph The Third Eye."
         ]
       }/>
+      <a href="https://alzhao.com">Back to homepage</a>
 
     </div>
   );
