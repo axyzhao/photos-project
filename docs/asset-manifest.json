@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alzhao.com/photos-project/static/css/main.28ad4254.css",
-    "main.js": "/alzhao.com/photos-project/static/js/main.184b1305.js",
-    "static/js/787.8f4e1e50.chunk.js": "/alzhao.com/photos-project/static/js/787.8f4e1e50.chunk.js",
-    "static/media/8.jpg": "/alzhao.com/photos-project/static/media/8.35500acb8754d741a571.jpg",
-    "static/media/5.jpg": "/alzhao.com/photos-project/static/media/5.7e5265ff5a585f256172.jpg",
-    "static/media/6.jpg": "/alzhao.com/photos-project/static/media/6.8a575e5959c4b7d5aa2e.jpg",
-    "static/media/2.jpg": "/alzhao.com/photos-project/static/media/2.95886229cfa9ff7dfc3c.jpg",
-    "static/media/4.jpg": "/alzhao.com/photos-project/static/media/4.a3042829fc57e4f1631c.jpg",
-    "static/media/1.jpg": "/alzhao.com/photos-project/static/media/1.c5a533f300c90c8df359.jpg",
-    "static/media/3.jpg": "/alzhao.com/photos-project/static/media/3.38d07dedd32cd59cda15.jpg",
-    "static/media/7.jpg": "/alzhao.com/photos-project/static/media/7.c2607aa5d8b7ab198ba1.jpg",
-    "index.html": "/alzhao.com/photos-project/index.html",
-    "main.28ad4254.css.map": "/alzhao.com/photos-project/static/css/main.28ad4254.css.map",
-    "main.184b1305.js.map": "/alzhao.com/photos-project/static/js/main.184b1305.js.map",
-    "787.8f4e1e50.chunk.js.map": "/alzhao.com/photos-project/static/js/787.8f4e1e50.chunk.js.map"
+    "main.css": "/photos-project/static/css/main.28ad4254.css",
+    "main.js": "/photos-project/static/js/main.2d6d12fb.js",
+    "static/js/787.8f4e1e50.chunk.js": "/photos-project/static/js/787.8f4e1e50.chunk.js",
+    "static/media/8.jpg": "/photos-project/static/media/8.35500acb8754d741a571.jpg",
+    "static/media/5.jpg": "/photos-project/static/media/5.7e5265ff5a585f256172.jpg",
+    "static/media/6.jpg": "/photos-project/static/media/6.8a575e5959c4b7d5aa2e.jpg",
+    "static/media/2.jpg": "/photos-project/static/media/2.95886229cfa9ff7dfc3c.jpg",
+    "static/media/4.jpg": "/photos-project/static/media/4.a3042829fc57e4f1631c.jpg",
+    "static/media/1.jpg": "/photos-project/static/media/1.c5a533f300c90c8df359.jpg",
+    "static/media/3.jpg": "/photos-project/static/media/3.38d07dedd32cd59cda15.jpg",
+    "static/media/7.jpg": "/photos-project/static/media/7.c2607aa5d8b7ab198ba1.jpg",
+    "index.html": "/photos-project/index.html",
+    "main.28ad4254.css.map": "/photos-project/static/css/main.28ad4254.css.map",
+    "main.2d6d12fb.js.map": "/photos-project/static/js/main.2d6d12fb.js.map",
+    "787.8f4e1e50.chunk.js.map": "/photos-project/static/js/787.8f4e1e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28ad4254.css",
-    "static/js/main.184b1305.js"
+    "static/js/main.2d6d12fb.js"
   ]
 }
