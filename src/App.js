@@ -19,7 +19,7 @@ function App() {
       <p>
         On May 7, two of my classmates in Schwarzman, Lujain and Lucia, organized a photograph activity where we split into groups and took pictures around Tsinghua University's campus.
       The campus is locked down, so we were limited to our area of Tsinghua. We were each given eight prompts and two hours to take pictures. At the end, we shared our photos with all.
-      Below are our photos.
+      Below are our photos - thanks Lena and Yucheng!
       </p>
 
       <ScrollContainer
